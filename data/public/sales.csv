@@ -1,0 +1,9 @@
+order_id,customer_id,amount,status
+1001,C001,125.50,paid
+1002,C002,80.00,placed
+1003,C003,45.20,shipped
+1004,C001,210.00,paid
+1005,C004,19.99,cancelled
+1006,C005,95.50,shipped
+1007,C006,140.00,paid
+1008,C007,60.00,placed
